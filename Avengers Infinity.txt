@@ -8,3 +8,7 @@ Avengers Infinity
 6 Thanos gets to the past 
 7 Thanos recollects the infinity stone
 8 Thanos try to snap his fingers again.
+9 Ironman goes to the past 
+10 Ironman collects  the infinity stones
+11 Ironman snaps the finger 
+12 Ironman kills  Thanos
