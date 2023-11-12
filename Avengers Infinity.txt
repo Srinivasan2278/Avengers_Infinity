@@ -12,3 +12,4 @@ Avengers Infinity
 10 Ironman collects  the infinity stones
 11 Ironman snaps the finger 
 12 Ironman kills  Thanos
+13 Ironman dies after snapping his finger
